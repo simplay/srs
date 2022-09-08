@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksrs=self.webpackChunksrs||[]).push([[8337],{9102:s=>{s.exports=JSON.parse('{"permalink":"/srs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

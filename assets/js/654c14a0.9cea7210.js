@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksrs=self.webpackChunksrs||[]).push([[81],{9330:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/srs/blog/tags/hello","allTagsPath":"/srs/blog/tags","count":2}')}}]);
