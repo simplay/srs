@@ -15,6 +15,9 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
+          <h2>
+            The source-code of this project will be released as soon as SRS's research paper got published.
+          </h2>
         </div>
       </div>
     </header>
@@ -29,7 +32,7 @@ export default function Home(): JSX.Element {
       description="Documentation and Tutorials">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        {/*<HomepageFeatures /> */}
       </main>
     </Layout>
   );
