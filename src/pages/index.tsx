@@ -35,12 +35,6 @@ function HomepageHeader() {
             <a style={{color: 'white', fontWeight: 'bold'}} target="_blank" href={ require("/README.pdf").default } download>Download SRS README</a>
           </h2>
         </div>
-        <div className={styles.buttons}>
-          <h2>
-            The source-code of this project will be released as soon as SRS's research paper got published.
-          </h2>
-
-        </div>
       </div>
     </header>
   );
