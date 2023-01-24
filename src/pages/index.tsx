@@ -14,6 +14,11 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.buttons}>
+          <h2>
+            <a style={{color: 'white', fontWeight: 'bold'}} target="_blank" href="https://gitlab.com/simplay/srs-project" download>Source Code (Gitlab)</a>
+          </h2>
+        </div>
 
         <div className={styles.buttons}>
           <h2>
